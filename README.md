@@ -173,7 +173,3 @@ npm start
 
 ## 📜 License
 This project is developed for hackathon and educational purposes.
-
----
-
-⭐ If you like this project, don't forget to **star the repo**!
